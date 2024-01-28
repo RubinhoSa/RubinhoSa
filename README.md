@@ -31,9 +31,9 @@ ___
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubinhosa&show_icons=true&theme=nord&count_private=true"/>
+<img height = "190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubinhosa&show_icons=true&theme=nord&count_private=true"/>
   
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=rubinhosa&show_icons=true&show_icons=true&theme=nord&count_private=true" />
+<img height = "190em" src="https://github-readme-stats.vercel.app/api?username=rubinhosa&show_icons=true&show_icons=true&theme=nord&count_private=true" />
 </div>
 
 
