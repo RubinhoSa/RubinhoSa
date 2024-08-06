@@ -12,11 +12,11 @@
 
 Estudante
 - 🥇 Python Intermediário
-- 🖥 Desenvolvimento de sistemas e jogos. (C e C++)
-- 📚 Aprendendo HTML + CSS
-- 📚 Aprendendo JavaScript
-- 📚 Aprendendo SQL
-- 📚 Aprendendo Automação (Python)
+- 🖥 Desenvolvimento de sistemas e jogos. (C e C++) 
+- 📚 HTML + CSS 
+- 📚 JavaScript 
+- 📚 SQL Server studio management
+- 📚 Automação (Python)
 ___
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
